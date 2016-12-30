@@ -1,0 +1,84 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11.12.2015, 15:37:32
+    Author     : greb
+*/
+
+/* for div
+#authwindow {
+	background: deepskyblue;
+	}
+*/
+
+  table.authtable {
+        background: #f5deb3;
+        border-width: 0;
+        border-style: none;
+        border-color: white;
+	}             
+        
+ /*       
+ table.authtable tbody {
+	background: skyblue;
+        border-style: none;
+        border-color: skyblue;
+	}       
+ */
+ 
+/*        
+ table.authtable thead td.authhead {
+    background: white;
+    border-style: none;
+    border-color: white;
+}
+*/
+
+table.formtable {
+    
+       
+        background: #f5deb3;
+        border-width: 0;
+        border-style: none;
+        border-color: white;
+	} 
+
+        /*
+ table.formtable tr.darktr {
+        bgcolor:  darkorange;
+	}        
+        */
+        
+ table.formtable tr.darktr td{
+ 
+        background: #f5f5e8;
+        border-color: white;
+	}    
+  
+ 
+/*        
+    .button {
+    background-color: #E3E1B8; 
+    padding: 2px 4px;
+    font: 13px sans-serif;
+    text-decoration: none;
+    border: 1px solid #000;
+    border-color: #aaa #444 #444 #aaa;
+    color: #000
+}
+*/
+
+   button.formbutton { 
+    background: #f5deb3;
+   }
+   
+  /* 
+   td.warn {
+    background-color:#FAAFBE;
+   }
+  */ 
+  
+
